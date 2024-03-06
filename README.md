@@ -1,162 +1,114 @@
-<div align="center" width="100px">
- <picture>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" width="100px" dir="auto">
+ <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/4006792/214640818-fd4de9e6-bdee-47f0-ae66-e69ee9ec84bb.png">
    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/4006792/214636328-8e4f83e8-66cb-4114-a3d8-473eb908b9c3.png">
-   <img width="200" alt="saleor-commerce-logo" src="https://user-images.githubusercontent.com/4006792/214636328-8e4f83e8-66cb-4114-a3d8-473eb908b9c3.png">
-
- </picture>
+   <img width="200" alt="销售或商务标志" src="https://user-images.githubusercontent.com/4006792/214636328-8e4f83e8-66cb-4114-a3d8-473eb908b9c3.png" style="visibility:visible;max-width:100%;">
+ </picture></themed-picture>
 </div>
-
-<div align="center">
-  <strong>Customer-centric e-commerce on a modern stack</strong>
+<div align="center" dir="auto">
+  <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代堆栈上以客户为中心的电子商务</font></font></strong>
 </div>
-
-<div align="center">
-  A headless, GraphQL commerce platform delivering ultra-fast, dynamic, personalized shopping experiences.<br/>Beautiful online stores, anywhere, on any device.
-</div>
-
+<div align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  一个无头 GraphQL 商务平台，提供超快速、动态、个性化的购物体验。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">美丽的在线商店，随时随地，在任何设备上。
+</font></font></div>
 <br>
-
-<div align="center">
-  Join our active, engaged community: <br>
-  <a href="https://saleor.io/">Website</a>
-  <span> | </span>
-  <a href="https://twitter.com/getsaleor">Twitter</a>
-  <span> | </span>
-  <a href="https://github.com/saleor/saleor/discussions">GitHub Discussions</a>
-  <span> | </span>
-  <a href="https://discord.gg/H52JTZAtSH">Discord</a>
+<div align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  加入我们活跃、参与的社区：</font></font><br>
+  <a href="https://saleor.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span>
+  <a href="https://twitter.com/getsaleor" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推特</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span>
+  <a href="https://github.com/saleor/saleor/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 讨论</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span>
+  <a href="https://discord.gg/H52JTZAtSH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a>
 </div>
-
-<div align="center">
-   <a href="https://saleor.io/blog/">Blog</a>
-  <span> | </span>
-  <a href="https://saleor.typeform.com/to/JTJK0Nou">Subscribe to newsletter</a>
+<div align="center" dir="auto">
+   <a href="https://saleor.io/blog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span>
+  <a href="https://saleor.typeform.com/to/JTJK0Nou" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订阅时事通讯</font></font></a>
 </div>
-
 <br>
-
-<div align="center">
-  <a href="http://codecov.io/github/saleor/saleor?branch=master">
-    <img src="http://codecov.io/github/saleor/saleor/coverage.svg?branch=master" alt="Codecov" />
+<div align="center" dir="auto">
+  <a href="http://codecov.io/github/saleor/saleor?branch=master" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a30a642ba3d98a86eeb5b238d89969fb2c06c79c7d4bf6de83c4e20a8b5f57b3/687474703a2f2f636f6465636f762e696f2f6769746875622f73616c656f722f73616c656f722f636f7665726167652e7376673f6272616e63683d6d6173746572" alt="代码科夫" data-canonical-src="http://codecov.io/github/saleor/saleor/coverage.svg?branch=master" style="max-width: 100%;">
   </a>
-  <a href="https://docs.saleor.io/">
-    <img src="https://img.shields.io/badge/docs-docs.saleor.io-brightgreen.svg" alt="Documentation" />
+  <a href="https://docs.saleor.io/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/7f61e021d44a10427f0fc328a57d93f89d5e0c32c5cbdc7da8da8c9b97c71190/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d646f63732e73616c656f722e696f2d627269676874677265656e2e737667" alt="文档" data-canonical-src="https://img.shields.io/badge/docs-docs.saleor.io-brightgreen.svg" style="max-width: 100%;">
   </a>
   <a href="https://github.com/python/black">
-    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black">
+    <img src="https://camo.githubusercontent.com/7d770c433d6198d89f8c1e2f187b904a9721d176259d0e97157337741cc8e837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667" alt="代码风格：黑色" data-canonical-src="https://img.shields.io/badge/code%20style-black-000000.svg" style="max-width: 100%;">
   </a>
 </div>
-
-## Table of Contents
-
-- [What makes Saleor special?](#what-makes-saleor-special)
-- [Features](#features)
-- [Installation](#installation)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Your feedback](#your-feedback)
-- [License](#license)
-
-## What makes Saleor special?
-
-Saleor is a rapidly-growing open-source e-commerce platform that serves high-volume companies. Designed from the ground up to be extensible, headless, and composable.
-
-Learn more about [architecture](https://docs.saleor.io/docs/3.x/overview/architecture).
-
-## Features
-
-- **Headless / API first**: Build mobile apps, custom storefronts, POS, automation, etc
-- **Extensible**: Build anything with webhooks, apps, metadata, and attributes
-- [**App Store**](https://github.com/saleor/apps): Leverage a collection of built-in integrations
-- **GraphQL API**: Get many resources in a single request and [more](https://graphql.org/)
-- **Multichannel**: Per channel control of pricing, currencies, stock, product, and more
-- **Enterprise ready**: Secure, scalable, and stable. Battle-tested by big brands
-- **CMS**: Content is king, that's why we have a kingdom built-in
-- **Dashboard**: User-friendly, fast, and productive. (Decoupled project [repo](https://github.com/saleor/saleor-dashboard) )
-- **Global by design** Multi-currency, multi-language, multi-warehouse, tutti multi!
-- **Orders**: A comprehensive system for orders, dispatch, and refunds
-- **Cart**: Advanced payment and tax options, with full control over discounts and promotions
-- **Payments**: Flexible API architecture allows integration of any payment method
-- **SEO**: Packed with features that get stores to a wider audience
-- **Cloud**: Optimized for deployments using Docker
-
-Saleor is free and always will be.
-Help us out… If you love free stuff and great software, give us a star! 🌟
-
-![Saleor Dashboard - Modern UI for managing your e-commerce](https://user-images.githubusercontent.com/9268745/224249510-d3c7658e-6d5c-42c5-b4fb-93eaf65a5335.png)
-
-## Installation
-
-[See the Saleor docs](https://docs.saleor.io/docs/3.x/developer/installation) for step-by-step installation and deployment instructions.
-
-Note:
-The `main` branch is the development version of Saleor and it may be unstable. To use the latest stable version, download it from the [Releases](https://github.com/saleor/saleor/releases/) page or switch to a release tag.
-
-The current production-ready version is 3.x and you should use this version for all three components:
-
-- Saleor: https://github.com/saleor/saleor/releases/
-- Dashboard: https://github.com/saleor/saleor-dashboard/releases/
-- Storefront: https://github.com/saleor/react-storefront/releases/
-
-### Saleor Cloud
-The fastest way to develop with Saleor is by using developer accounts in [Saleor Cloud](https://cloud.saleor.io).
-
-Register [here](https://cloud.saleor.io/register) or install our [CLI tool](https://github.com/saleor/saleor-cli):
-
-`npm i -g @saleor/cli`
-
-and run the following command:
-
-`saleor register`
-
-Bootstrap your first [storefront](https://github.com/saleor/react-storefront) with:
-
-`saleor storefront create --url {your-saleor-graphql-endpoint}`
-
-## Documentation
-
-Saleor documentation is available here: [docs.saleor.io](https://docs.saleor.io)
-
-To contribute, please see the [`saleor/saleor-docs` repository](https://github.com/saleor/saleor-docs/).
-
-## Saleor Platform
-
-The easiest way to run all components of Saleor (API, storefront, and dashboard) together on your local machine is to use the [saleor-platform](https://github.com/saleor/saleor-platform) project. Go to that repository for instructions on how to use it.
-
-[View saleor-platform](https://github.com/saleor/saleor-platform)
-
-## Storefront
-
-An open-source storefront example built with Next.js App Router, React.js, TypeScript, GraphQL, and Tailwind CSS.
-
-[React Storefront Repository](https://github.com/saleor/storefront)
-
-[View Storefront Example](https://storefront.saleor.io/)
-
-## Dashboard
-
-For the dashboard, go to the [saleor-dashboard](https://github.com/saleor/saleor-dashboard) repository.
-
-## Contributing
-
-We love your contributions and do our best to provide you with mentorship and support. If you are looking for an issue to tackle, take a look at issues labeled [`Good first issue`](https://github.com/saleor/saleor/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)
-
-If nothing grabs your attention, check [our roadmap](https://github.com/orgs/saleor/projects/3/views/4) or come up with your feature. Just drop us a line or [open an issue](https://github.com/saleor/saleor/issues/new) and we’ll work out how to handle it.
-
-Get more details in our [Contributing Guide](https://docs.saleor.io/docs/developer/community/contributing).
-
-## Your feedback
-
-Do you use Saleor as an e-commerce platform?
-Fill out this short survey and help us grow. It will take just a minute, but means a lot!
-
-[Take a survey](https://mirumee.typeform.com/to/sOIJbJ)
-
-## License
-
-Disclaimer: Everything you see here is open and free to use as long as you comply with the [license](https://github.com/saleor/saleor/blob/master/LICENSE). There are no hidden charges. We promise to do our best to fix bugs and improve the code.
-
-#### Crafted with ❤️ by [Saleor Commerce](https://saleor.io)
-
-hello@saleor.io
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h2><a id="user-content-table-of-contents" class="anchor" aria-label="固定链接：目录" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#what-makes-saleor-special"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saleor 有何特别之处？</font></font></a></li>
+<li><a href="#features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></li>
+<li><a href="#installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></li>
+<li><a href="#documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="#your-feedback"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的反馈</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saleor 有何特别之处？</font></font></h2><a id="user-content-what-makes-saleor-special" class="anchor" aria-label="永久链接： Saleor 有何特别之处？" href="#what-makes-saleor-special"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saleor 是一个快速发展的开源电子商务平台，为大批量公司提供服务。</font><font style="vertical-align: inherit;">从头开始设计为可扩展、无头和可组合。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多关于</font></font><a href="https://docs.saleor.io/docs/3.x/overview/architecture" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建筑的知识</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor" aria-label="永久链接：特点" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无头/API优先</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：构建移动应用程序、自定义店面、POS、自动化等</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可扩展</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用 webhooks、应用程序、元数据和属性构建任何内容</font></font></li>
+<li><a href="https://github.com/saleor/apps"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">App Store</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：利用一系列内置集成</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GraphQL API</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：在单个请求中获取许多资源</font></font><a href="https://graphql.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等等</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多渠道</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：每个渠道控制定价、货币、库存、产品等</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">企业就绪</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：安全、可扩展且稳定。</font><font style="vertical-align: inherit;">经过大品牌的实战考验</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMS</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：内容为王，这就是为什么我们有一个内置的王国</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仪表板</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：用户友好、快速且高效。</font><font style="vertical-align: inherit;">（解耦项目</font></font><a href="https://github.com/saleor/saleor-dashboard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仓库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全球设计</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多币种、多语言、多仓库、多种！</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订单</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：订单、发货和退款的综合系统</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">购物车</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：高级付款和税收选项，完全控制折扣和促销</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支付</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：灵活的API架构允许集成任何支付方式</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SEO</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：具有让商店吸引更多受众的功能</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">云</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：针对使用 Docker 的部署进行了优化</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saleor 是免费的，而且永远都是。</font><font style="vertical-align: inherit;">帮助我们......如果您喜欢免费的东西和优秀的软件，请给我们一颗星！</font><font style="vertical-align: inherit;">🌟</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/9268745/224249510-d3c7658e-6d5c-42c5-b4fb-93eaf65a5335.png"><img src="https://user-images.githubusercontent.com/9268745/224249510-d3c7658e-6d5c-42c5-b4fb-93eaf65a5335.png" alt="Saleor Dashboard - 用于管理电子商务的现代 UI" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://docs.saleor.io/docs/3.x/developer/installation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅 Saleor 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取分步安装和部署说明。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：该</font></font><code>main</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分支是Saleor的开发版本，可能不稳定。</font></font><a href="https://github.com/saleor/saleor/releases/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要使用最新的稳定版本，请从发布</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">页面下载</font><font style="vertical-align: inherit;">或切换到发布标签。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当前的生产就绪版本是 3.x，您应该将此版本用于所有三个组件：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">销售者： https: </font></font><a href="https://github.com/saleor/saleor/releases/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/saleor/saleor/releases/</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仪表板： https: </font></font><a href="https://github.com/saleor/saleor-dashboard/releases/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/saleor/saleor-dashboard/releases/</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">店面： https: </font></font><a href="https://github.com/saleor/react-storefront/releases/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/saleor/react-storefront/releases/</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">销售云</font></font></h3><a id="user-content-saleor-cloud" class="anchor" aria-label="永久链接：销售云" href="#saleor-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Saleor 进行开发的最快方法是使用</font></font><a href="https://cloud.saleor.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saleor Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的开发人员帐户。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://cloud.saleor.io/register" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注册</font><font style="vertical-align: inherit;">或安装我们的</font></font><a href="https://github.com/saleor/saleor-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CLI 工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<p dir="auto"><code>npm i -g @saleor/cli</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并运行以下命令：</font></font></p>
+<p dir="auto"><code>saleor register</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过以下方式启动您的第一个</font></font><a href="https://github.com/saleor/react-storefront"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">店面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<p dir="auto"><code>saleor storefront create --url {your-saleor-graphql-endpoint}</code></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saleor 文档可在此处获取：</font></font><a href="https://docs.saleor.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.saleor.io</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要做出贡献，请参阅</font></font><a href="https://github.com/saleor/saleor-docs/"><code>saleor/saleor-docs</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卖家平台</font></font></h2><a id="user-content-saleor-platform" class="anchor" aria-label="永久链接：销售平台" href="#saleor-platform"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在本地计算机上一起运行 Saleor 所有组件（API、店面和仪表板）的最简单方法是使用</font></font><a href="https://github.com/saleor/saleor-platform"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">saleor-platform</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目。</font><font style="vertical-align: inherit;">转到该存储库以获取有关如何使用它的说明。</font></font></p>
+<p dir="auto"><a href="https://github.com/saleor/saleor-platform"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看卖家平台</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">店面</font></font></h2><a id="user-content-storefront" class="anchor" aria-label="永久链接：店面" href="#storefront"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Next.js App Router、React.js、TypeScript、GraphQL 和 Tailwind CSS 构建的开源店面示例。</font></font></p>
+<p dir="auto"><a href="https://github.com/saleor/storefront"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React 店面存储库</font></font></a></p>
+<p dir="auto"><a href="https://storefront.saleor.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看店面示例</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仪表板</font></font></h2><a id="user-content-dashboard" class="anchor" aria-label="永久链接：仪表板" href="#dashboard"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于仪表板，请转到</font></font><a href="https://github.com/saleor/saleor-dashboard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">saleor-dashboard</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们热爱您的贡献，并尽力为您提供指导和支持。</font><font style="vertical-align: inherit;">如果您正在寻找要解决的问题，请查看标记为的问题</font></font><a href="https://github.com/saleor/saleor/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+"><code>Good first issue</code></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果没有什么吸引您的注意力，请查看</font></font><a href="https://github.com/orgs/saleor/projects/3/views/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的路线图</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或提出您的功能。</font><font style="vertical-align: inherit;">只需给我们留言或</font></font><a href="https://github.com/saleor/saleor/issues/new"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提出问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我们就会找出处理方法。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://docs.saleor.io/docs/developer/community/contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在我们的贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中获取更多详细信息</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的反馈</font></font></h2><a id="user-content-your-feedback" class="anchor" aria-label="永久链接：您的反馈" href="#your-feedback"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您使用 Saleor 作为电子商务平台吗？</font><font style="vertical-align: inherit;">填写这份简短的调查并帮助我们成长。</font><font style="vertical-align: inherit;">虽然只需要一分钟，但意义重大！</font></font></p>
+<p dir="auto"><a href="https://mirumee.typeform.com/to/sOIJbJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参与调查</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免责声明：只要您遵守</font></font><a href="https://github.com/saleor/saleor/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可协议</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，您在这里看到的所有内容都是开放且免费使用的。</font><font style="vertical-align: inherit;">没有隐藏费用。</font><font style="vertical-align: inherit;">我们承诺尽最大努力修复错误并改进代码。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><a href="https://saleor.io" rel="nofollow"><font style="vertical-align: inherit;">由Saleor Commerce</font></a><font style="vertical-align: inherit;">使用 ❤️ 制作</font></font><a href="https://saleor.io" rel="nofollow"><font style="vertical-align: inherit;"></font></a></h4><a id="user-content-crafted-with-️-by-saleor-commerce" class="anchor" aria-label="永久链接：由 Saleor Commerce 使用 ❤️ 制作" href="#crafted-with-️-by-saleor-commerce"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="mailto:hello@saleor.io"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好@saleor.io</font></font></a></p>
+</article></div>
